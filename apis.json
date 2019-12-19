@@ -1,0 +1,44 @@
+{
+    "name": "Project Chronos",
+    "description": "<p>This platform originates from the Hackathon SpaceApps Challenge 2014 and integrates information about space missions from NASA, ESA, and JAXA with our learn-by-playing paradigm to let you dive into space knowledge in an exciting way!&nbsp;The next era of space exploration will be driven by distributed and open exploration ventures. Thousands of rovers and micro-probes will be surfing the System, controlled by many private and public institutions and, eventually, by private citizens, with the goal of collecting and sharing data. Space is too vast to have restricted access: cheap technologies (micro-satellites, social participation, open challenges, private launchers), multidisciplinarity, and always more specialized knowledge are taking part to the race.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Project-Chronos-Logo.png",
+    "tags": [
+        "have api",
+        "nasa"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/project-chronos\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Project Chronos",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Project-Chronos-Logo.png",
+            "humanURL": "http:\/\/www.spacexplore.it\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/project-chronos-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/project-chronos-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "http:\/\/www.spacexplore.it\/api\/docs\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.spacexplore.it\/"
+        }
+    ]
+}
